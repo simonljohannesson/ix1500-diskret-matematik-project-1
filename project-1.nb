@@ -1,0 +1,72 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1919,         62]
+NotebookOptionsPosition[      1271,         43]
+NotebookOutlinePosition[      1659,         59]
+CellTagsIndexPosition[      1616,         56]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["IX1500 Diskret matematik", "Title",
+ CellChangeTimes->{{3.808559954664946*^9, 
+  3.808559998381734*^9}},ExpressionUUID->"50795187-5b45-48dd-816e-\
+24d2838f7db0"],
+
+Cell["Projektuppgit 1", "Subtitle",
+ CellChangeTimes->{{3.808560032272283*^9, 
+  3.808560054838499*^9}},ExpressionUUID->"33a95301-16e7-4043-8880-\
+452c6ef12096"],
+
+Cell["Authors: William Asp & Simon Johannesson", "Text",
+ CellChangeTimes->{{3.8085600609413977`*^9, 
+  3.808560084978957*^9}},ExpressionUUID->"fe079e29-5439-4c96-960a-\
+6655a3304cb6"],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.808560089943383*^9, 
+  3.8085600906893873`*^9}},ExpressionUUID->"7cb5448d-69e5-4c48-bbab-\
+66e7e1a27426"]
+}, Open  ]]
+},
+WindowSize->{527, 875},
+WindowMargins->{{Automatic, 3}, {Automatic, 3}},
+FrontEndVersion->"12.1 for Linux x86 (64-bit) (June 19, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"9ef2655f-003e-403e-9ba6-b87b26fd7999"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 167, 3, 160, "Title",ExpressionUUID->"50795187-5b45-48dd-816e-24d2838f7db0"],
+Cell[750, 27, 161, 3, 53, "Subtitle",ExpressionUUID->"33a95301-16e7-4043-8880-452c6ef12096"],
+Cell[914, 32, 184, 3, 35, "Text",ExpressionUUID->"fe079e29-5439-4c96-960a-6655a3304cb6"],
+Cell[1101, 37, 154, 3, 30, "Input",ExpressionUUID->"7cb5448d-69e5-4c48-bbab-66e7e1a27426"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
